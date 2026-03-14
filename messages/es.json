@@ -1,0 +1,384 @@
+{
+  "metadata": {
+    "title": "OLA VIVA | Retiros Espirituales en la Naturaleza",
+    "description": "Donde cada ola es una liberación y la vida florece. Retiros espirituales en grupo inmersos en la naturaleza.",
+    "ogTitle": "OLA VIVA – Retiros Espirituales",
+    "ogDescription": "Descubre retiros transformadores en montaña, nieve, playas e islas paradisíacas."
+  },
+  "nav": {
+    "home": "Inicio",
+    "about": "Nosotros",
+    "destinations": "Destinos",
+    "gallery": "Galería",
+    "contact": "Contacto",
+    "shop": "Tienda",
+    "openMenu": "Abrir menú",
+    "closeMenu": "Cerrar menú"
+  },
+  "home": {
+    "hero": {
+      "tagline": "Donde cada ola es una liberación y la vida florece",
+      "subtitle": "Retiros espirituales en grupo inmersos en la naturaleza",
+      "cta": "Descubrir retiros",
+      "ctaSecondary": "Nuestra Galeria"
+    },
+    "intro": {
+      "title": "Una ola de transformación",
+      "body": "OLA VIVA es más que una agencia de viajes. Somos guías de experiencias holísticas que conectan cuerpo, mente y alma con la naturaleza."
+    }
+  },
+  "about": {
+    "title": "El lirio que florece en ti",
+    "subtitle": "Sobre Nosotros",
+    "transformationTexts": [
+      "Donde cada ola es una liberación",
+      "La naturaleza como espejo",
+      "Florece quien se atreve"
+    ],
+    "philosophy": {
+      "title": "Nuestra filosofía",
+      "body": "Cada retiro es una experiencia curada y holística diseñada para activar tus sentidos y tu conciencia. El viaje es el vehículo, la transformación personal es el destino."
+    },
+    "values": {
+      "nature": {
+        "title": "Conexión con la naturaleza",
+        "body": "El entorno natural es nuestro espacio sagrado de crecimiento."
+      },
+      "community": {
+        "title": "Comunidad auténtica",
+        "body": "Vínculos genuinos en un ambiente seguro y respetuoso."
+      },
+      "transformation": {
+        "title": "Transformación integral",
+        "body": "Cuerpo, mente y alma en perfecta armonía."
+      }
+    }
+  },
+  "destinations": {
+    "title": "Destinos que transforman",
+    "subtitle": "Elige tu próximo retiro",
+    "environments": {
+      "mountains": "Montaña",
+      "snow": "Nieve",
+      "beaches": "Playa",
+      "islands": "Islas"
+    },
+    "learnMore": "Saber más",
+    "aboutTrip": "Sobre este viaje",
+    "itineraryTitle": "Itinerario orientativo",
+    "itinerarySubtitle": "Un plan flexible. Nos adaptamos al grupo y al momento.",
+    "highlightsTitle": "Lo que vivirás",
+    "travelStyleTitle": "Estilo del viaje",
+    "includedTitle": "Qué incluye",
+    "notIncludedTitle": "Qué no incluye",
+    "faqTitle": "Preguntas frecuentes",
+    "bookNow": "Reservar plaza",
+    "depositNote": "Paga solo {deposit} € para reservar tu plaza",
+    "depositNote2": "El importe restante se paga más adelante antes del viaje",
+    "trustBadge1Title": "+200 personas",
+    "trustBadge1Body": "han confiado en nosotros",
+    "trustBadge2Title": "Viaje seguro",
+    "trustBadge2Body": "Seguro incluido y guía experto",
+    "perPerson": "por persona",
+    "days": "días",
+    "people": "personas",
+    "backToDestinations": "Volver a destinos",
+    "list": {
+      "mallorca": {
+        "title": "Mallorca",
+        "tagline": "El Despertar de tu Ola Interior",
+        "dates": "Por confirmar",
+        "description": "OLA VIVA es más que un retiro; es una invitación a que la vida florezca a través de cada ola. En esta aventura en la isla más luminosa de Baleares, nos sumergimos en una experiencia holística diseñada para activar tus sentidos y tu conciencia. Durante cinco días, practicaremos Pilates frente al mar, navegaremos en velero por aguas turquesas y despertaremos tu lado creativo con un taller de joyas artesanales. No vienes a hacer turismo; vienes a vivir una transformación personal y social en un ambiente seguro y respetuoso. Si buscas equilibrio, salud integral y una conexión auténtica con la naturaleza, tu ola ha llegado.",
+        "itinerary": {
+          "day1": { "title": "Llegada y Raíces", "body": "Traslado a nuestra villa exclusiva, el refugio donde florecerá nuestra nueva versión. Círculo de bienvenida y dinámicas de grupo para romper el hielo y crear vínculos genuinos. Sesión suave de estiramientos al atardecer y cena nutritiva para comenzar el viaje con energía renovada." },
+          "day2": { "title": "Fluir en el Azul", "body": "Sesión matutina de Pilates en el jardín de la villa para activar el cuerpo. Rumbo a las calas vírgenes para una experiencia de Snorkel, explorando la vida bajo el espejo del Mediterráneo. Taller de creación de joyas por la tarde, utilizando elementos del entorno para materializar tu conexión con la isla." },
+          "day3": { "title": "Navegación y Silencio", "body": "Día completo a bordo de un velero. Sentiremos la libertad de la brisa y el movimiento de las olas. Momento de meditación guiada en alta mar, buscando la calma mental y el silencio interior. Regreso a la villa para una tarde de descanso y tiempo compartido." },
+          "day4": { "title": "Creatividad y Cúspide", "body": "Mañana de senderismo por la Sierra de Tramuntana, combinando actividad física con vistas espectaculares. Taller de pintura o body painting inspirado en los colores verde oliva y rosa pálido de nuestra esencia. Cena de despedida épica en un entorno natural, brindando por la transformación vivida." },
+          "day5": { "title": "Renacer y Regreso", "body": "Última sesión de meditación y desayuno nutritivo en comunidad. Cierre del retiro: nos vamos con algo más que fotos, con una red de apoyo y el alma renovada. Traslado al aeropuerto y regreso a casa." }
+        },
+        "highlights": {
+          "h1": "Sesiones de Pilates y Meditación frente al mar",
+          "h2": "Navegación en velero privado por calas exclusivas",
+          "h3": "Snorkel en aguas cristalinas de Mallorca",
+          "h4": "Taller de joyas y actividades creativas para el alma",
+          "h5": "Villa completa de uso exclusivo para el grupo",
+          "h6": "Inmersión cultural y conexión con las tradiciones locales"
+        },
+        "included": {
+          "i1": "Alojamiento (4 noches) en villa exclusiva",
+          "i2": "Transporte privado para todos los desplazamientos en la isla",
+          "i3": "Monitores y guías de OLA VIVA acompañan la experiencia",
+          "i4": "Seguro de viaje y reportaje fotográfico/vídeo del retiro"
+        },
+        "notIncluded": {
+          "n1": "Vuelos a Palma de Mallorca",
+          "n2": "Comidas y cenas"
+        },
+        "travelStyle": {
+          "t1": "Grupos de hasta 20 personas",
+          "t2": "La mayoría de los viajeros viene solo/a",
+          "t3": "Villa completa solo para el grupo",
+          "t4": "Monitores que cuidan el ambiente grupal en todo momento"
+        },
+        "faq": {
+          "q1": { "question": "¿Puedo ir solo/a?", "answer": "¡Por supuesto! La mayoría de las personas que se unen a nuestras experiencias vienen sin acompañante. OLA VIVA es el espacio perfecto para conocer gente nueva y crear vínculos genuinos en un ambiente de respeto." },
+          "q2": { "question": "¿Qué edades suele haber en el grupo?", "answer": "Nuestros retiros están abiertos a cualquier persona con ganas de conectar consigo misma y con la naturaleza. Solemos tener un grupo heterogéneo donde la energía y las ganas de compartir son lo más importante." },
+          "q3": { "question": "¿Es un viaje muy exigente físicamente?", "answer": "No es necesario ser un atleta. Nuestras sesiones de Pilates y las rutas de senderismo están diseñadas para activar el cuerpo y buscar el equilibrio, no para la competición. Nos adaptamos al ritmo del grupo en todo momento." },
+          "q4": { "question": "¿El vuelo está incluido en el precio?", "answer": "No, el precio del retiro no incluye los vuelos de ida y vuelta para que cada persona tenga flexibilidad. Sin embargo, te asesoraremos para encontrar la opción más económica y cómoda para llegar a la isla." },
+          "q5": { "question": "¿Dónde dormiremos durante el retiro?", "answer": "Nos alojaremos en una villa exclusiva para nuestro grupo de 20 personas. Es una propiedad privada diseñada para fomentar la calma, el bienestar y la convivencia, siendo nuestra base de operaciones y sanación." },
+          "q6": { "question": "¿Cómo se gestionan las comidas?", "answer": "Las comidas y cenas no están incluidas para que cada asistente gestione su presupuesto y preferencias alimenticias con libertad. No obstante, organizaremos cenas grupales y sesiones de desayuno nutritivo para fomentar la conexión social." },
+          "q7": { "question": "¿Es un viaje seguro?", "answer": "Totalmente. Contamos con un seguro incluido en la reserva y monitores del equipo que cuidan el ambiente grupal y la logística en todo momento." },
+          "q8": { "question": "¿Cómo reservo mi plaza?", "answer": "Es muy sencillo: solo tienes que realizar un pago inicial de 180 € para asegurar tu lugar en la villa. El importe restante se abona más adelante, antes del inicio del viaje." }
+        }
+      },
+      "tenerife": {
+        "title": "Tenerife",
+        "tagline": "La Ola Volcánica",
+        "dates": "Por confirmar",
+        "description": "OLA VIVA te invita a una expedición hacia tu centro en la isla de la eterna primavera. Tenerife no es solo un destino, es un vehículo de transformación personal y social. En este retiro, la fuerza del volcán y la inmensidad del océano se unen para ayudarte a florecer hacia tu mejor versión. Durante 5 días, conectaremos con la pureza de la intención a través del movimiento y el respeto por el entorno. Practicaremos Barre frente al mar, meditaremos bajo el manto de estrellas del Teide y navegaremos en busca de la libertad que solo el Atlántico puede ofrecer.",
+        "itinerary": {
+          "day1": { "title": "Bienvenida al Edén Canario", "body": "Llegada y traslado a nuestra villa exclusiva, un refugio rodeado de naturaleza para desconectar de la rutina. Círculo de apertura y dinámicas de grupo para crear un ambiente seguro y familiar desde el primer minuto. Meditación guiada al atardecer para establecer la intención del retiro." },
+          "day2": { "title": "Fluir con el Océano", "body": "Sesión de Barre en la playa al amanecer, activando el cuerpo con la brisa marina. Salida en Kayak para el avistamiento de delfines, una conexión profunda con la fauna local en su hábitat natural. Tarde de Paddle Surf y tiempo libre para disfrutar de las playas de arena negra volcánica." },
+          "day3": { "title": "El Aliento del Teide", "body": "Salida de madrugada para vivir el amanecer en el Teide, por encima de las nubes, donde el cielo arde en tonos naranjas. Sesión de Yoga en un entorno volcánico para integrar la energía de la isla. Tarde de descanso en la villa y taller creativo para despertar tu lado artístico." },
+          "day4": { "title": "Raíces y Bosques Mágicos", "body": "Senderismo por los bosques de Anaga (laurisilva), un entorno de cuento cubierto de niebla que parece de otro planeta. Almuerzo tipo picnic consciente en plena naturaleza. Cena de despedida en la villa, celebrando los vínculos genuinos creados en el grupo." },
+          "day5": { "title": "Renacer y Expansión", "body": "Último desayuno nutritivo y sesión de cierre para compartir la transformación experimentada. Tiempo libre para últimas compras o baños en el mar antes del traslado al aeropuerto." }
+        },
+        "highlights": {
+          "h1": "Amanecer en el Teide por encima de las nubes",
+          "h2": "Avistamiento de delfines en Kayak",
+          "h3": "Barre y Yoga frente al Atlántico",
+          "h4": "Senderismo en los bosques de Anaga",
+          "h5": "Playas de arena negra volcánica",
+          "h6": "Villa exclusiva para el grupo"
+        },
+        "included": {
+          "i1": "Alojamiento en villa exclusiva solo para el grupo",
+          "i2": "Transporte privado para todas las actividades y traslados",
+          "i3": "Actividades guiadas: Kayak, Teide, Senderismo, Yoga, Barre y Paddle Surf",
+          "i4": "Seguro básico de viaje, monitores 24/7 y fotos/vídeos de la experiencia"
+        },
+        "notIncluded": {
+          "n1": "Vuelos de ida y vuelta",
+          "n2": "Comidas y cenas"
+        },
+        "travelStyle": {
+          "t1": "Grupos de hasta 15 personas (estilo familiar)",
+          "t2": "La mayoría de los viajeros viene solo/a",
+          "t3": "Villa completa solo para el grupo",
+          "t4": "Monitores que cuidan el ambiente grupal en todo momento"
+        },
+        "faq": {
+          "q1": { "question": "¿Puedo ir solo/a?", "answer": "¡Claro que sí! La mayoría de nuestros viajeros vienen solos. OLA VIVA es un espacio diseñado para que un grupo que empieza como desconocido termine siendo parte de algo especial." },
+          "q2": { "question": "¿Es un viaje muy exigente físicamente?", "answer": "No. Las actividades de Yoga, Barre y Senderismo están diseñadas para activar el cuerpo de forma equilibrada. Buscamos la salud integral y nos adaptamos al ritmo del grupo para que la experiencia sea transformadora, no agotadora." },
+          "q3": { "question": "¿Necesito experiencia previa en Paddle Surf o Kayak?", "answer": "Para nada. Estas actividades acuáticas están pensadas para que disfrutes del entorno y la fauna local, como el avistamiento de delfines, de forma segura y guiada por monitores." },
+          "q4": { "question": "¿Cómo es el alojamiento?", "answer": "Dormiremos en una villa exclusiva para nuestro grupo de 15 personas. Es un ambiente seguro y respetuoso donde fomentamos la calma y la convivencia familiar." },
+          "q5": { "question": "¿El vuelo está incluido?", "answer": "No, los vuelos de ida y vuelta no están incluidos para darte libertad de gestión. No obstante, el equipo de OLA VIVA te ayudará a gestionarlos de la forma más económica posible." },
+          "q6": { "question": "¿Qué edades suele haber en el retiro?", "answer": "Nuestros retiros atraen a personas de diversas edades que comparten el propósito de desconectar de la rutina y buscar una conexión profunda consigo mismos y con la naturaleza." },
+          "q7": { "question": "¿Es seguro el viaje?", "answer": "Totalmente. El retiro incluye un seguro básico de viaje y estarás acompañado en todo momento por monitores que cuidan el ambiente y la logística." },
+          "q8": { "question": "¿Cómo reservo mi plaza?", "answer": "Puedes reservar tu lugar con un pago inicial de 149 €. El importe restante se abona más adelante, antes del inicio del viaje." }
+        }
+      },
+      "madeira": {
+        "title": "Madeira",
+        "tagline": "El Florecer de la Isla Salvaje",
+        "dates": "20 – 25 de Junio",
+        "description": "OLA VIVA regresa a la isla más salvaje de Europa para una aventura de transformación integral. En esta expedición, no solo recorreremos paisajes que parecen de otro planeta, sino que utilizaremos el entorno para florecer a través del arte y el movimiento. Durante 5 días, nos sumergiremos en bosques mágicos, meditaremos frente a cascadas de encanto y despertaremos nuestra creatividad pintando en la playa. Esta es una invitación para quienes buscan naturaleza salvaje, conexión profunda y una comunidad que termina siendo algo más.",
+        "itinerary": {
+          "day1": { "title": "Bienvenida en la Quinta Portuguesa", "body": "Llegada, bienvenida y traslado a nuestra gran casita portuguesa, nuestra base de paz en la isla. Dinámicas de grupo para crear la energía que marcará el viaje y primera sesión de Meditación para conectar con la tierra. Cena grupal y descanso en nuestra villa exclusiva." },
+          "day2": { "title": "Aguas de Lava y Lienzos de Arena", "body": "Desayuno nutritivo incluido en la villa. Mañana de Snorkel en las piscinas naturales de Porto Moniz o la costa de Seixal, explorando el océano. Por la tarde, taller de Painting en la playa de arena negra, seguido de un Picnic consciente frente al Atlántico." },
+          "day3": { "title": "El Corazón Verde de Madeira", "body": "Sesión matutina de Yoga entre la vegetación salvaje. Senderismo por el Bosque de Fanal: caminaremos entre árboles centenarios y niebla, un escenario de cuento. Visita a la Cascada de Lagoa do Vento, donde disfrutaremos de un baño en su lago natural." },
+          "day4": { "title": "Amanecer en las Nubes y Arte Textil", "body": "Salida de madrugada para vivir el amanecer en el Pico do Arieiro, el punto más famoso por encima de las nubes. Sesión de Pilates con vistas panorámicas a las montañas de la isla. Taller creativo de Tote Bag: personaliza tu bolsa con motivos inspirados en el Lirio de OLA VIVA y la naturaleza local." },
+          "day5": { "title": "Cierre y Regreso", "body": "Última sesión de Meditación grupal y desayuno en la casita. Visita a puntos de interés locales para últimas compras de artesanía. Traslado al aeropuerto para iniciar el regreso a casa con el alma renovada." }
+        },
+        "highlights": {
+          "h1": "Amanecer en el Pico do Arieiro por encima de las nubes",
+          "h2": "Snorkel en las piscinas naturales volcánicas",
+          "h3": "Senderismo en el bosque mágico de Fanal",
+          "h4": "Taller de Painting en playa de arena negra",
+          "h5": "Baño en la Cascada de Lagoa do Vento",
+          "h6": "Villa portuguesa exclusiva para el grupo"
+        },
+        "included": {
+          "i1": "Alojamiento de 4 noches en villa exclusiva para el grupo",
+          "i2": "Desayunos nutritivos diarios incluidos en la villa",
+          "i3": "Transporte privado y trasbordos durante toda la estancia",
+          "i4": "Todas las actividades: Yoga, Pilates, Meditación, Snorkel y Senderismo",
+          "i5": "Talleres creativos: Painting en la playa y Taller de Tote Bag",
+          "i6": "Seguro de viaje y acompañamiento por monitores de OLA VIVA",
+          "i7": "Reportaje de fotos y vídeos de toda la experiencia"
+        },
+        "notIncluded": {
+          "n1": "Vuelos de ida y vuelta",
+          "n2": "Comidas y cenas (excepto desayunos y picnic)"
+        },
+        "travelStyle": {
+          "t1": "Grupos de hasta 15 personas",
+          "t2": "La mayoría de los viajeros viene solo/a",
+          "t3": "Villa exclusiva solo para el grupo",
+          "t4": "Monitores de OLA VIVA acompañando en todo momento"
+        },
+        "faq": {
+          "q1": { "question": "¿Es necesario saber pintar o hacer yoga?", "answer": "No, nuestros talleres y sesiones son para todos los niveles. Buscamos la expresión personal y el bienestar integral." },
+          "q2": { "question": "¿Cómo reservo mi plaza?", "answer": "Paga solo 149 € para reservar. El resto se abona antes de viajar en junio." },
+          "q3": { "question": "¿Qué ropa debo llevar?", "answer": "Al ser junio, ropa ligera para los talleres en la playa, pero también algo de abrigo para el amanecer en el pico más alto." }
+        }
+      },
+      "galicia": {
+        "title": "Galicia",
+        "tagline": "La Ola del Norte y el Camino Interior",
+        "dates": "Fin de semana por confirmar",
+        "description": "OLA VIVA te invita a una pausa necesaria en la tierra de las \"meigas\" y los bosques infinitos. Este retiro de fin de semana es una ola de aire puro diseñada para quienes buscan reconectar con su esencia entre la bruma del mar y la piedra milenaria. En solo 3 días, pasaremos de la calma de la meditación en playas vírgenes a la energía histórica de Santiago de Compostela. Navegaremos hacia el paraíso de las Islas Cíes y nos dejaremos cuidar en nuestra villa gallega.",
+        "itinerary": {
+          "day1": { "title": "Raíces en las Rías Baixas", "body": "Llegada y bienvenida en nuestra villa exclusiva cerca de Vigo, un entorno rodeado de verde donde la vida florece. Círculo de apertura y meditación para dejar atrás el ruido de la ciudad. Paseo al atardecer por el centro de Vigo, disfrutando de su luz y su cultura local antes de nuestra primera cena compartida." },
+          "day2": { "title": "El Paraíso y el Camino", "body": "Sesión matutina de Yoga y Meditación frente al mar para activar cuerpo y mente. Travesía en barco a las Islas Cíes. Caminata consciente hasta el faro y tiempo de desconexión en la Playa de Rodas, una de las más bellas del mundo. Por la tarde, traslado a Santiago de Compostela: visita espiritual y cultural al centro histórico." },
+          "day3": { "title": "Calma y Despedida", "body": "Sesión de Yoga suave en la villa seguida de un desayuno nutritivo. Visita a las playas locales de los alrededores de Vigo para un último contacto con el agua del Atlántico. Dinámica de cierre de grupo y despedida. Nos vamos con historias, conexión y una nueva energía para la semana." }
+        },
+        "highlights": {
+          "h1": "Excursión en barco a las Islas Cíes (Playa de Rodas)",
+          "h2": "Visita espiritual a Santiago de Compostela",
+          "h3": "Yoga y Meditación frente al mar Atlántico",
+          "h4": "Villa exclusiva en las Rías Baixas"
+        },
+        "included": {
+          "i1": "Alojamiento de 2 noches en villa privada",
+          "i2": "Transporte privado para los traslados a Santiago, Vigo y puerto",
+          "i3": "Billete de barco a las Islas Cíes",
+          "i4": "Sesiones guiadas de Yoga y Meditación",
+          "i5": "Monitores de OLA VIVA acompañando durante toda la experiencia",
+          "i6": "Seguro básico de viaje"
+        },
+        "notIncluded": {
+          "n1": "Comidas y cenas"
+        },
+        "travelStyle": {
+          "t1": "Intensidad baja, diseñado para el disfrute y la calma mental",
+          "t2": "La mayoría de los viajeros viene solo/a",
+          "t3": "Villa exclusiva solo para el grupo"
+        },
+        "faq": {
+          "q1": { "question": "¿Es muy exigente el viaje?", "answer": "No, es un retiro de intensidad baja diseñado para el disfrute y la calma mental." },
+          "q2": { "question": "¿Cómo reservo?", "answer": "Paga solo 90 € para reservar tu plaza. El resto se abona antes del viaje." },
+          "q3": { "question": "¿Puedo ir solo/a?", "answer": "¡Claro! La mayoría de nuestros viajeros vienen solos buscando crear vínculos genuinos en un ambiente seguro." },
+          "q4": { "question": "¿Qué pasa con las comidas?", "answer": "Al igual que en otros destinos de OLA VIVA, las comidas no están incluidas para que cada persona gestione su presupuesto con libertad en la rica gastronomía gallega." }
+        }
+      }
+    }
+  },
+  "gallery": {
+    "eyebrow": "Momentos",
+    "title": "Galería",
+    "subtitle": "Imágenes que capturan la esencia de cada retiro: la naturaleza, la comunidad y la transformación.",
+    "viewImage": "Ver imagen",
+    "imageAlt": "Imagen de galería",
+    "close": "Cerrar",
+    "prev": "Anterior",
+    "next": "Siguiente"
+  },
+  "contact": {
+    "title": "Empieza tu viaje",
+    "subtitle": "Cuéntanos tu sueño y lo hacemos realidad",
+    "form": {
+      "name": "Nombre completo",
+      "email": "Correo electrónico",
+      "phone": "Teléfono (opcional)",
+      "destination": "Destino de interés",
+      "destinationPlaceholder": "¿Qué tipo de destino te llama?",
+      "message": "Tu mensaje",
+      "messagePlaceholder": "Cuéntanos qué buscas en tu retiro...",
+      "submit": "Enviar mensaje",
+      "sending": "Enviando...",
+      "success": "¡Mensaje enviado! Te contactamos en menos de 24 horas.",
+      "error": "Ha ocurrido un error. Por favor, inténtalo de nuevo."
+    }
+  },
+  "common": {
+    "learnMore": "Saber más",
+    "bookNow": "Reservar ahora",
+    "loading": "Cargando...",
+    "backToDestinations": "Volver a destinos",
+    "viewGallery": "Ver galería"
+  },
+  "merch": {
+    "metaTitle": "Tienda | OLA VIVA",
+    "metaDescription": "Lleva la esencia de OLA VIVA contigo. Ropa, accesorios y artículos de hogar con nuestra identidad natural.",
+    "eyebrow": "Tienda",
+    "title": "Lleva la ola contigo",
+    "subtitle": "Ropa, accesorios y artículos de hogar que irradian la esencia de OLA VIVA.",
+    "cart": "Tu carrito",
+    "closeCart": "Cerrar carrito",
+    "emptyCart": "Tu carrito está vacío",
+    "emptyCartSub": "Añade productos para comenzar",
+    "continueShopping": "Seguir comprando",
+    "subtotal": "Subtotal",
+    "shippingNote": "Los gastos de envío se calcularán al finalizar el pedido.",
+    "checkout": "Finalizar pedido",
+    "addToCart": "Añadir al carrito",
+    "added": "¡Añadido!",
+    "selectSize": "Selecciona talla",
+    "size": "Talla",
+    "remove": "Eliminar",
+    "decrease": "Disminuir cantidad",
+    "increase": "Aumentar cantidad",
+    "viewProduct": "Ver producto",
+    "backToShop": "Volver a la tienda",
+    "relatedProducts": "También te puede gustar",
+    "filterByCategory": "Filtrar por categoría",
+    "allProducts": "Todo",
+    "checkoutSoonTitle": "Próximamente",
+    "checkoutSoonBody": "Estamos preparando nuestra tienda online con todo el cuidado que merece. Pronto podrás completar tu compra. ¡Gracias por tu paciencia!",
+    "contactUs": "Contáctanos",
+    "trustNatural": "Materiales naturales y de calidad",
+    "trustShipping": "Envío a toda España",
+    "trustSustainable": "Producción sostenible",
+    "trustCommunity": "Apoya a la comunidad OLA VIVA",
+    "categories": {
+      "clothing": "Ropa",
+      "accessories": "Accesorios",
+      "home": "Hogar"
+    },
+    "tags": {
+      "bestseller": "Más vendido",
+      "new": "Nuevo"
+    },
+    "products": {
+      "tshirtShell": "Camiseta Shell",
+      "tshirtShellDesc": "Camiseta de algodón orgánico con el diseño Shell de OLA VIVA. Suave, cómoda y con la esencia de nuestros retiros. Perfecta para el día a día o para tus sesiones de yoga.",
+      "tshirtBeach": "Camiseta Beach",
+      "tshirtBeachDesc": "Camiseta inspirada en nuestros retiros de playa. Diseño minimalista con la paleta cromática de OLA VIVA en algodón de alta calidad.",
+      "hoodie": "Sudadera OLA VIVA",
+      "hoodieDesc": "Sudadera con capucha en verde salvia suave. El abrigo perfecto para las mañanas de meditación o los atardeceres en la naturaleza. Tejido premium reciclado.",
+      "totebagShell": "Tote Bag Shell",
+      "totebagShellDesc": "Bolsa de tela reutilizable con el icónico diseño Shell de OLA VIVA. Resistente, espaciosa y respetuosa con el medio ambiente. Tu compañera perfecta de retiro.",
+      "totebagGrowing": "Tote Bag Growing",
+      "totebagGrowingDesc": "Bolsa de tela con el diseño Growing, símbolo del crecimiento personal que inspira cada retiro. Lona de algodón 100% orgánico.",
+      "landyard": "Lanyard OLA VIVA",
+      "landyardDesc": "Lanyard con el logo de OLA VIVA. Detalle sutil para llevar la energía de los retiros en tu día a día.",
+      "candleJazmin": "Vela Jazmín",
+      "candleJazminDesc": "Vela aromática de jazmín elaborada con cera de soja natural. El aroma que te transporta instantáneamente a nuestros retiros. Quema limpia de 40 horas.",
+      "candlePink": "Vela Rosa Pálido",
+      "candlePinkDesc": "Vela con aroma floral suave en el rosa pálido característico de OLA VIVA. Cera de soja 100% natural. Un ritual de calma para tu hogar."
+    }
+  },
+  "footer": {
+    "eyebrow": "OLA VIVA",
+    "tagline": "Donde cada ola es una liberación y la vida florece.",
+    "description": "Retiros espirituales en grupo inmersos en la naturaleza. Cada viaje, una transformación.",
+    "links": { "title": "Navegación" },
+    "social": {
+      "title": "Síguenos",
+      "instagram": "Instagram",
+      "facebook": "Facebook"
+    },
+    "contact": {
+      "title": "Escríbenos",
+      "body": "¿Tienes dudas o quieres reservar tu plaza? Estamos aquí para ti.",
+      "cta": "Contactar"
+    },
+    "legal": {
+      "privacy": "Política de privacidad",
+      "terms": "Términos y condiciones",
+      "cookies": "Política de cookies"
+    },
+    "copyright": "© {year} OLA VIVA. Todos los derechos reservados."
+  }
+}

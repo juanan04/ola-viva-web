@@ -1,26 +1,181 @@
 @import "tailwindcss";
 
+/* ============================================================
+   OLA VIVA - Design System
+   Tailwind v4 theme via @theme directive
+   ============================================================ */
+
+@theme {
+  /* ─── Brand Colors ─────────────────────────────────── */
+
+  /* Sage (Verde Oliva) - Primary brand color */
+  --color-sage-50:  #F4F6F2;
+  --color-sage-100: #E8ECE4;
+  --color-sage-200: #D1D9CA;
+  --color-sage-300: #B5C1AA;
+  --color-sage-400: #9BA78B; /* Brand primary - logo background */
+  --color-sage-500: #8B9A7B;
+  --color-sage-600: #6F7D62;
+  --color-sage-700: #566149;
+  --color-sage-800: #3D4534;
+  --color-sage-900: #252A1F;
+  --color-sage-950: #141710;
+
+  /* Blush (Rosa Palido) - Secondary brand color */
+  --color-blush-50:  #FDF8F7;
+  --color-blush-100: #F7EBE8;
+  --color-blush-200: #F0D9D4; /* Brand secondary - logo text */
+  --color-blush-300: #E4D0D4;
+  --color-blush-400: #D4B5B0;
+  --color-blush-500: #C49A94;
+  --color-blush-600: #A87872;
+  --color-blush-700: #885C57;
+  --color-blush-800: #654340;
+  --color-blush-900: #432D2B;
+  --color-blush-950: #2A1B1A;
+
+  /* Sand - Neutral backgrounds */
+  --color-sand-50:  #FDFCFB;
+  --color-sand-100: #F8F5F2;
+  --color-sand-200: #F0EBE5;
+  --color-sand-300: #E2D9CF;
+  --color-sand-400: #C9BCAE;
+
+  /* ─── Typography ────────────────────────────────────── */
+  --font-serif: var(--font-cormorant), "Cormorant Garamond", Georgia, serif;
+  --font-sans:  var(--font-montserrat), Montserrat, system-ui, sans-serif;
+
+  /* ─── Font Sizes (fluid) ────────────────────────────── */
+  --text-display-xl: clamp(3rem, 8vw, 6rem);
+  --text-display-xl--line-height: 1.05;
+  --text-display-xl--letter-spacing: -0.02em;
+
+  --text-display: clamp(2.25rem, 5vw, 4rem);
+  --text-display--line-height: 1.1;
+  --text-display--letter-spacing: -0.015em;
+
+  --text-heading: clamp(1.5rem, 3vw, 2.5rem);
+  --text-heading--line-height: 1.2;
+  --text-heading--letter-spacing: -0.01em;
+
+  /* ─── Spacing ───────────────────────────────────────── */
+  --spacing-section: clamp(4rem, 10vh, 8rem);
+
+  /* ─── Border Radius ─────────────────────────────────── */
+  --radius-organic: 63% 37% 54% 46% / 55% 48% 52% 45%;
+
+  /* ─── Animations ────────────────────────────────────── */
+  --animate-wave-drift: waveDrift 8s ease-in-out infinite;
+  --animate-fade-in:    fadeIn 0.6s ease-out forwards;
+  --animate-bloom:      bloom 1.2s ease-out forwards;
+}
+
+/* ─── Keyframes ─────────────────────────────────────────── */
+
+@keyframes waveDrift {
+  0%, 100% { transform: translateX(0) scaleY(1); }
+  50%       { transform: translateX(-2%) scaleY(1.02); }
+}
+
+@keyframes waveDriftBack {
+  0%, 100% { transform: translateX(0) scaleY(1); }
+  50%       { transform: translateX(2.5%) scaleY(0.98); }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(12px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes bloom {
+  from { opacity: 0; transform: scale(0.95); }
+  to   { opacity: 1; transform: scale(1); }
+}
+
+/* ─── Base Styles ───────────────────────────────────────── */
+
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: var(--color-sand-50);
+  --foreground: var(--color-sage-900);
+  color-scheme: light;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html {
+  scroll-behavior: smooth;
 }
 
 body {
-  background: var(--background);
+  background-color: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ─── Custom Utilities ──────────────────────────────────── */
+
+@utility text-display-xl {
+  font-size: var(--text-display-xl);
+  line-height: var(--text-display-xl--line-height);
+  letter-spacing: var(--text-display-xl--letter-spacing);
+}
+
+@utility text-display {
+  font-size: var(--text-display);
+  line-height: var(--text-display--line-height);
+  letter-spacing: var(--text-display--letter-spacing);
+}
+
+@utility text-heading {
+  font-size: var(--text-heading);
+  line-height: var(--text-heading--line-height);
+  letter-spacing: var(--text-heading--letter-spacing);
+}
+
+@utility py-section {
+  padding-top: var(--spacing-section);
+  padding-bottom: var(--spacing-section);
+}
+
+/* Skip to content (accessibility) */
+.skip-to-content {
+  position: absolute;
+  top: -100%;
+  left: 1rem;
+  z-index: 9999;
+  padding: 0.5rem 1rem;
+  background-color: var(--color-sage-400);
+  color: white;
+  border-radius: 0.25rem;
+  transition: top 0.2s;
+}
+
+.skip-to-content:focus {
+  top: 1rem;
+}
+
+/* ─── Reduced Motion ───────────────────────────────────────── */
+/* Respect user preference: disable animations and transitions */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* ─── Focus styles ─────────────────────────────────────────── */
+/* Ensure visible focus for keyboard navigation */
+:focus-visible {
+  outline: 2px solid var(--color-sage-400);
+  outline-offset: 2px;
+}
+
+/* ─── Selection ────────────────────────────────────────────── */
+::selection {
+  background-color: var(--color-sage-200);
+  color: var(--color-sage-900);
 }

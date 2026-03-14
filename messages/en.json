@@ -1,0 +1,384 @@
+{
+  "metadata": {
+    "title": "OLA VIVA | Spiritual Retreats in Nature",
+    "description": "Where every wave is a liberation and life flourishes. Group spiritual retreats immersed in nature.",
+    "ogTitle": "OLA VIVA – Spiritual Retreats",
+    "ogDescription": "Discover transformative retreats in mountains, snow, beaches and paradise islands."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "destinations": "Destinations",
+    "gallery": "Gallery",
+    "contact": "Contact",
+    "shop": "Shop",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "home": {
+    "hero": {
+      "tagline": "Where every wave is a liberation and life flourishes",
+      "subtitle": "Group spiritual retreats immersed in nature",
+      "cta": "Discover retreats",
+      "ctaSecondary": "Our Gallery"
+    },
+    "intro": {
+      "title": "A wave of transformation",
+      "body": "OLA VIVA is more than a travel agency. We are guides of holistic experiences that connect body, mind and soul with nature."
+    }
+  },
+  "about": {
+    "title": "The lily that blooms within you",
+    "subtitle": "About Us",
+    "transformationTexts": [
+      "Where every wave is a release",
+      "Nature as your mirror",
+      "She blossoms who dares"
+    ],
+    "philosophy": {
+      "title": "Our philosophy",
+      "body": "Each retreat is a curated, holistic experience designed to awaken your senses and consciousness. The journey is the vehicle, personal transformation is the destination."
+    },
+    "values": {
+      "nature": {
+        "title": "Connection with nature",
+        "body": "The natural environment is our sacred space for growth."
+      },
+      "community": {
+        "title": "Authentic community",
+        "body": "Genuine bonds in a safe and respectful environment."
+      },
+      "transformation": {
+        "title": "Integral transformation",
+        "body": "Body, mind and soul in perfect harmony."
+      }
+    }
+  },
+  "destinations": {
+    "title": "Destinations that transform",
+    "subtitle": "Choose your next retreat",
+    "environments": {
+      "mountains": "Mountains",
+      "snow": "Snow",
+      "beaches": "Beach",
+      "islands": "Islands"
+    },
+    "learnMore": "Learn more",
+    "aboutTrip": "About this trip",
+    "itineraryTitle": "Suggested itinerary",
+    "itinerarySubtitle": "A flexible plan. We adapt to the group and the moment.",
+    "highlightsTitle": "What you'll experience",
+    "travelStyleTitle": "Trip style",
+    "includedTitle": "What's included",
+    "notIncludedTitle": "What's not included",
+    "faqTitle": "Frequently asked questions",
+    "bookNow": "Book your spot",
+    "depositNote": "Pay only {deposit} € to secure your spot",
+    "depositNote2": "The remaining amount is paid later before the trip",
+    "trustBadge1Title": "+200 people",
+    "trustBadge1Body": "have trusted us",
+    "trustBadge2Title": "Safe trip",
+    "trustBadge2Body": "Insurance included & expert guide",
+    "perPerson": "per person",
+    "days": "days",
+    "people": "people",
+    "backToDestinations": "Back to destinations",
+    "list": {
+      "mallorca": {
+        "title": "Mallorca",
+        "tagline": "The Awakening of Your Inner Wave",
+        "dates": "To be confirmed",
+        "description": "OLA VIVA is more than a retreat; it is an invitation for life to flourish through every wave. In this adventure on the most luminous island of the Balearics, we immerse ourselves in a holistic experience designed to awaken your senses and consciousness. Over five days, we will practise Pilates by the sea, sail a yacht through turquoise waters and awaken your creative side with an artisan jewellery workshop. You are not coming to do tourism; you are coming to live a personal and social transformation in a safe and respectful environment.",
+        "itinerary": {
+          "day1": { "title": "Arrival & Roots", "body": "Transfer to our exclusive villa, the refuge where our new version will flourish. Welcome circle and group dynamics to break the ice and create genuine bonds. Gentle stretching session at sunset and nutritious dinner to begin the journey with renewed energy." },
+          "day2": { "title": "Flowing in the Blue", "body": "Morning Pilates session in the villa garden to activate the body. Off to virgin coves for a Snorkelling experience, exploring life beneath the Mediterranean mirror. Jewellery-making workshop in the afternoon, using elements from the surroundings to materialise your connection with the island." },
+          "day3": { "title": "Sailing & Silence", "body": "Full day aboard a sailboat. We will feel the freedom of the breeze and the movement of the waves. Guided meditation at sea, seeking mental calm and inner silence. Return to the villa for an afternoon of rest and shared time." },
+          "day4": { "title": "Creativity & Summit", "body": "Morning hike through the Sierra de Tramuntana, combining physical activity with spectacular views. Painting or body-painting workshop inspired by the olive-green and pale-rose colours of our essence. Epic farewell dinner in a natural setting, toasting the transformation lived." },
+          "day5": { "title": "Rebirth & Return", "body": "Final meditation session and nutritious community breakfast. Retreat closing: we leave with more than photos — with a support network and a renewed soul. Transfer to the airport and return home." }
+        },
+        "highlights": {
+          "h1": "Pilates and Meditation sessions by the sea",
+          "h2": "Private yacht sailing to exclusive coves",
+          "h3": "Snorkelling in Mallorca's crystal-clear waters",
+          "h4": "Jewellery workshop and creative activities for the soul",
+          "h5": "Full villa exclusively for the OLA VIVA group",
+          "h6": "Cultural immersion and connection with local traditions"
+        },
+        "included": {
+          "i1": "Accommodation (4 nights) in exclusive villa",
+          "i2": "Private transport for all island transfers",
+          "i3": "OLA VIVA monitors and guides throughout the experience",
+          "i4": "Travel insurance and photo/video report of the retreat"
+        },
+        "notIncluded": {
+          "n1": "Flights to Palma de Mallorca",
+          "n2": "Meals and dinners"
+        },
+        "travelStyle": {
+          "t1": "Groups of up to 20 people",
+          "t2": "Most travellers come alone",
+          "t3": "Full villa exclusively for the group",
+          "t4": "Monitors caring for the group atmosphere at all times"
+        },
+        "faq": {
+          "q1": { "question": "Can I go alone?", "answer": "Of course! Most people who join our experiences come without a companion. OLA VIVA is the perfect space to meet new people and create genuine bonds in a respectful environment." },
+          "q2": { "question": "What ages are usually in the group?", "answer": "Our retreats are open to anyone who wants to connect with themselves and with nature. We usually have a diverse group where energy and willingness to share are what matter most." },
+          "q3": { "question": "Is the trip very physically demanding?", "answer": "You don't need to be an athlete. Our Pilates sessions and hiking routes are designed to activate the body and find balance, not for competition. We adapt to the group's pace at all times." },
+          "q4": { "question": "Is the flight included in the price?", "answer": "No, the retreat price does not include round-trip flights so each person has flexibility. However, we will advise you on finding the most economical and comfortable option to reach the island." },
+          "q5": { "question": "Where will we sleep during the retreat?", "answer": "We will stay in an exclusive villa for our group of 20 people. It is a private property designed to foster calm, well-being and coexistence, serving as our base of operations and healing." },
+          "q6": { "question": "How are meals managed?", "answer": "Meals and dinners are not included so each attendee can manage their budget and dietary preferences freely. However, we will organise group dinners and nutritious breakfast sessions to foster social connection." },
+          "q7": { "question": "Is the trip safe?", "answer": "Absolutely. We have insurance included in the booking and team monitors who look after the group atmosphere and logistics at all times." },
+          "q8": { "question": "How do I book my spot?", "answer": "Very simple: just make an initial payment of €180 to secure your place in the villa. The remaining amount is paid later, before the start of the trip." }
+        }
+      },
+      "tenerife": {
+        "title": "Tenerife",
+        "tagline": "The Volcanic Wave",
+        "dates": "To be confirmed",
+        "description": "OLA VIVA invites you on an expedition to your centre on the island of eternal spring. Tenerife is not just a destination — it is a vehicle for personal and social transformation. In this retreat, the force of the volcano and the vastness of the ocean come together to help you flourish into your best version. Over 5 days, we will connect with the purity of intention through movement and respect for the environment. We will practise Barre by the sea, meditate under the star-filled sky of the Teide and sail in search of the freedom that only the Atlantic can offer.",
+        "itinerary": {
+          "day1": { "title": "Welcome to the Canarian Eden", "body": "Arrival and transfer to our exclusive villa, a nature-surrounded refuge to disconnect from routine. Opening circle and group dynamics to create a safe and family atmosphere from the very first minute. Guided meditation at sunset to set the intention of the retreat." },
+          "day2": { "title": "Flowing with the Ocean", "body": "Barre session on the beach at dawn, activating the body with the sea breeze. Kayak excursion for dolphin watching, a deep connection with local wildlife in its natural habitat. Paddle surf afternoon and free time to enjoy the black volcanic sand beaches." },
+          "day3": { "title": "The Breath of Teide", "body": "Early morning departure to experience the sunrise at Teide, above the clouds, where the sky blazes in orange tones. Yoga session in a volcanic setting to integrate the energy of the island. Rest afternoon at the villa and creative workshop to awaken your artistic side." },
+          "day4": { "title": "Roots & Magical Forests", "body": "Hiking through the Anaga forests (laurel forest), a fairy-tale setting covered in mist that seems to belong to another planet. Mindful picnic lunch in the heart of nature. Farewell dinner at the villa, celebrating the genuine bonds created in the group." },
+          "day5": { "title": "Rebirth & Expansion", "body": "Last nutritious breakfast and closing session to share the transformation experienced. Free time for last-minute shopping or sea bathing before the airport transfer." }
+        },
+        "highlights": {
+          "h1": "Sunrise at Teide above the clouds",
+          "h2": "Dolphin watching by Kayak",
+          "h3": "Barre and Yoga facing the Atlantic",
+          "h4": "Hiking in the Anaga forests",
+          "h5": "Black volcanic sand beaches",
+          "h6": "Exclusive villa for the group"
+        },
+        "included": {
+          "i1": "Accommodation in exclusive villa for the group only",
+          "i2": "Private transport for all activities and transfers",
+          "i3": "Guided activities: Kayak, Teide, Hiking, Yoga, Barre and Paddle Surf",
+          "i4": "Basic travel insurance, 24/7 monitors and experience photos/videos"
+        },
+        "notIncluded": {
+          "n1": "Round-trip flights",
+          "n2": "Meals and dinners"
+        },
+        "travelStyle": {
+          "t1": "Groups of up to 15 people (family style)",
+          "t2": "Most travellers come alone",
+          "t3": "Full villa exclusively for the group",
+          "t4": "Monitors caring for the group atmosphere at all times"
+        },
+        "faq": {
+          "q1": { "question": "Can I go alone?", "answer": "Of course! Most of our travellers come alone. OLA VIVA is a space designed for a group that starts as strangers to end up being part of something special." },
+          "q2": { "question": "Is the trip very physically demanding?", "answer": "No. The Yoga, Barre and Hiking activities are designed to activate the body in a balanced way. We seek holistic health and adapt to the group's pace so the experience is transformative, not exhausting." },
+          "q3": { "question": "Do I need prior experience in Paddle Surf or Kayak?", "answer": "Not at all. These water activities are designed for you to enjoy the surroundings and local wildlife, such as dolphin watching, safely and guided by monitors." },
+          "q4": { "question": "What is the accommodation like?", "answer": "We will sleep in an exclusive villa for our group of 15 people. It is a safe and respectful environment where we foster calm and family coexistence." },
+          "q5": { "question": "Is the flight included?", "answer": "No, round-trip flights are not included to give you freedom of management. However, the OLA VIVA team will help you arrange them as economically as possible." },
+          "q6": { "question": "What ages are usually in the retreat?", "answer": "Our retreats attract people of various ages who share the purpose of disconnecting from routine and seeking a deep connection with themselves and with nature." },
+          "q7": { "question": "Is the trip safe?", "answer": "Absolutely. The retreat includes basic travel insurance and you will be accompanied at all times by monitors who look after the atmosphere and logistics." },
+          "q8": { "question": "How do I book my spot?", "answer": "You can book your place with an initial payment of €149. The remaining amount is paid later, before the start of the trip." }
+        }
+      },
+      "madeira": {
+        "title": "Madeira",
+        "tagline": "The Blooming of the Wild Island",
+        "dates": "20 – 25 June",
+        "description": "OLA VIVA returns to the wildest island in Europe for an adventure of integral transformation. On this expedition, we will not only traverse landscapes that seem to belong to another planet, but use the environment to flourish through art and movement. Over 5 days, we will immerse ourselves in magical forests, meditate in front of enchanting waterfalls and awaken our creativity painting on the beach. This is an invitation for those seeking wild nature, deep connection and a community that becomes something more.",
+        "itinerary": {
+          "day1": { "title": "Welcome at the Portuguese Quinta", "body": "Arrival, welcome and transfer to our beautiful Portuguese house, our base of peace on the island. Group dynamics to create the energy that will define the trip and first Meditation session to connect with the land. Group dinner and rest at our exclusive villa." },
+          "day2": { "title": "Lava Waters & Sand Canvases", "body": "Nutritious breakfast included at the villa. Morning Snorkelling in the natural pools of Porto Moniz or the Seixal coast, exploring the ocean. In the afternoon, Painting workshop on the black sand beach, followed by a mindful Picnic facing the Atlantic." },
+          "day3": { "title": "The Green Heart of Madeira", "body": "Morning Yoga session among the wild vegetation. Hiking through Fanal Forest: walking among century-old trees and mist, a fairy-tale setting. Visit to the Lagoa do Vento Waterfall, where we will enjoy a dip in its natural lake." },
+          "day4": { "title": "Sunrise in the Clouds & Textile Art", "body": "Early morning departure to experience the sunrise at Pico do Arieiro, the most famous spot above the clouds. Pilates session with panoramic views of the island's mountains. Creative Tote Bag workshop: personalise your bag with motifs inspired by OLA VIVA's Lily and local nature." },
+          "day5": { "title": "Closing & Return", "body": "Final group Meditation session and breakfast at the house. Visit to local points of interest for last-minute craft shopping. Transfer to the airport to begin the journey home with a renewed soul." }
+        },
+        "highlights": {
+          "h1": "Sunrise at Pico do Arieiro above the clouds",
+          "h2": "Snorkelling in volcanic natural pools",
+          "h3": "Hiking in the magical Fanal forest",
+          "h4": "Painting workshop on black sand beach",
+          "h5": "Dip in the Lagoa do Vento waterfall",
+          "h6": "Exclusive Portuguese villa for the group"
+        },
+        "included": {
+          "i1": "4 nights accommodation in exclusive villa for the group",
+          "i2": "Daily nutritious breakfasts included at the villa",
+          "i3": "Private transport and transfers throughout the stay",
+          "i4": "All activities: Yoga, Pilates, Meditation, Snorkelling and Hiking",
+          "i5": "Creative workshops: Beach Painting and Tote Bag Workshop",
+          "i6": "Travel insurance and OLA VIVA monitor accompaniment",
+          "i7": "Photo and video report of the entire experience"
+        },
+        "notIncluded": {
+          "n1": "Round-trip flights",
+          "n2": "Meals and dinners (except breakfasts and picnic)"
+        },
+        "travelStyle": {
+          "t1": "Groups of up to 15 people",
+          "t2": "Most travellers come alone",
+          "t3": "Exclusive villa for the group only",
+          "t4": "OLA VIVA monitors accompanying at all times"
+        },
+        "faq": {
+          "q1": { "question": "Do I need to know how to paint or do yoga?", "answer": "No, our workshops and sessions are for all levels. We seek personal expression and holistic well-being." },
+          "q2": { "question": "How do I book my spot?", "answer": "Pay only €149 to reserve. The rest is paid before travelling in June." },
+          "q3": { "question": "What clothes should I bring?", "answer": "Being June, light clothing for beach workshops, but also something warm for the early morning sunrise at the highest peak." }
+        }
+      },
+      "galicia": {
+        "title": "Galicia",
+        "tagline": "The Northern Wave & the Inner Path",
+        "dates": "Weekend — to be confirmed",
+        "description": "OLA VIVA invites you to a necessary pause in the land of the \"meigas\" and infinite forests. This weekend retreat is a wave of fresh air designed for those seeking to reconnect with their essence amid the sea mist and millennial stone. In just 3 days, we will move from the calm of meditation on virgin beaches to the historical energy of Santiago de Compostela. We will sail to the paradise of the Cíes Islands and let ourselves be cared for in our Galician villa.",
+        "itinerary": {
+          "day1": { "title": "Roots in the Rías Baixas", "body": "Arrival and welcome at our exclusive villa near Vigo, a green-surrounded setting where life flourishes. Opening circle and meditation to leave behind the city noise. Sunset walk through the centre of Vigo, enjoying its light and local culture before our first shared dinner." },
+          "day2": { "title": "Paradise & The Way", "body": "Morning Yoga and Meditation session facing the sea to activate body and mind. Boat trip to the Cíes Islands. Mindful walk to the lighthouse and disconnection time at Rodas Beach, one of the most beautiful in the world. In the afternoon, transfer to Santiago de Compostela: spiritual and cultural visit to the historic centre." },
+          "day3": { "title": "Calm & Farewell", "body": "Gentle Yoga session at the villa followed by a nutritious breakfast. Visit to local beaches around Vigo for a final contact with the Atlantic waters. Closing group dynamic and farewell. We leave with stories, connection and new energy for the week." }
+        },
+        "highlights": {
+          "h1": "Boat trip to the Cíes Islands (Rodas Beach)",
+          "h2": "Spiritual visit to Santiago de Compostela",
+          "h3": "Yoga and Meditation facing the Atlantic",
+          "h4": "Exclusive villa in the Rías Baixas"
+        },
+        "included": {
+          "i1": "2 nights accommodation in private villa",
+          "i2": "Private transport for transfers to Santiago, Vigo and port",
+          "i3": "Boat ticket to the Cíes Islands",
+          "i4": "Guided Yoga and Meditation sessions",
+          "i5": "OLA VIVA monitors accompanying throughout the experience",
+          "i6": "Basic travel insurance"
+        },
+        "notIncluded": {
+          "n1": "Meals and dinners"
+        },
+        "travelStyle": {
+          "t1": "Low intensity, designed for enjoyment and mental calm",
+          "t2": "Most travellers come alone",
+          "t3": "Exclusive villa for the group only"
+        },
+        "faq": {
+          "q1": { "question": "Is the trip very demanding?", "answer": "No, it is a low-intensity retreat designed for enjoyment and mental calm." },
+          "q2": { "question": "How do I book?", "answer": "Pay only €90 to reserve your spot. The rest is paid before the trip." },
+          "q3": { "question": "Can I go alone?", "answer": "Of course! Most of our travellers come alone looking to create genuine bonds in a safe environment." },
+          "q4": { "question": "What about meals?", "answer": "Like other OLA VIVA destinations, meals are not included so each person can manage their budget freely in the rich Galician gastronomy." }
+        }
+      }
+    }
+  },
+  "gallery": {
+    "eyebrow": "Moments",
+    "title": "Gallery",
+    "subtitle": "Images that capture the essence of each retreat: nature, community and transformation.",
+    "viewImage": "View image",
+    "imageAlt": "Gallery image",
+    "close": "Close",
+    "prev": "Previous",
+    "next": "Next"
+  },
+  "contact": {
+    "title": "Start your journey",
+    "subtitle": "Tell us your dream and we'll make it happen",
+    "form": {
+      "name": "Full name",
+      "email": "Email address",
+      "phone": "Phone (optional)",
+      "destination": "Destination of interest",
+      "destinationPlaceholder": "What type of destination calls to you?",
+      "message": "Your message",
+      "messagePlaceholder": "Tell us what you're looking for in your retreat...",
+      "submit": "Send message",
+      "sending": "Sending...",
+      "success": "Message sent! We will contact you within 24 hours.",
+      "error": "An error occurred. Please try again."
+    }
+  },
+  "common": {
+    "learnMore": "Learn more",
+    "bookNow": "Book now",
+    "loading": "Loading...",
+    "backToDestinations": "Back to destinations",
+    "viewGallery": "View gallery"
+  },
+  "merch": {
+    "metaTitle": "Shop | OLA VIVA",
+    "metaDescription": "Carry the essence of OLA VIVA with you. Clothing, accessories and home items with our natural identity.",
+    "eyebrow": "Shop",
+    "title": "Carry the wave with you",
+    "subtitle": "Clothing, accessories and home items that radiate the essence of OLA VIVA.",
+    "cart": "Your cart",
+    "closeCart": "Close cart",
+    "emptyCart": "Your cart is empty",
+    "emptyCartSub": "Add products to get started",
+    "continueShopping": "Continue shopping",
+    "subtotal": "Subtotal",
+    "shippingNote": "Shipping costs will be calculated at checkout.",
+    "checkout": "Checkout",
+    "addToCart": "Add to cart",
+    "added": "Added!",
+    "selectSize": "Select size",
+    "size": "Size",
+    "remove": "Remove",
+    "decrease": "Decrease quantity",
+    "increase": "Increase quantity",
+    "viewProduct": "View product",
+    "backToShop": "Back to shop",
+    "relatedProducts": "You may also like",
+    "filterByCategory": "Filter by category",
+    "allProducts": "All",
+    "checkoutSoonTitle": "Coming soon",
+    "checkoutSoonBody": "We are preparing our online store with all the care it deserves. Soon you will be able to complete your purchase. Thank you for your patience!",
+    "contactUs": "Contact us",
+    "trustNatural": "Natural, quality materials",
+    "trustShipping": "Shipping across Spain",
+    "trustSustainable": "Sustainable production",
+    "trustCommunity": "Support the OLA VIVA community",
+    "categories": {
+      "clothing": "Clothing",
+      "accessories": "Accessories",
+      "home": "Home"
+    },
+    "tags": {
+      "bestseller": "Bestseller",
+      "new": "New"
+    },
+    "products": {
+      "tshirtShell": "Shell T-Shirt",
+      "tshirtShellDesc": "Organic cotton t-shirt with OLA VIVA's Shell design. Soft, comfortable and with the essence of our retreats. Perfect for everyday wear or your yoga sessions.",
+      "tshirtBeach": "Beach T-Shirt",
+      "tshirtBeachDesc": "T-shirt inspired by our beach retreats. Minimalist design with OLA VIVA's colour palette in high quality cotton.",
+      "hoodie": "OLA VIVA Hoodie",
+      "hoodieDesc": "Hooded sweatshirt in soft sage green. The perfect cover for meditation mornings or sunsets in nature. Premium recycled fabric.",
+      "totebagShell": "Shell Tote Bag",
+      "totebagShellDesc": "Reusable fabric bag with OLA VIVA's iconic Shell design. Durable, spacious and environmentally friendly. Your perfect retreat companion.",
+      "totebagGrowing": "Growing Tote Bag",
+      "totebagGrowingDesc": "Fabric bag with the Growing design, symbol of the personal growth that inspires every retreat. 100% organic cotton canvas.",
+      "landyard": "OLA VIVA Lanyard",
+      "landyardDesc": "Lanyard with the OLA VIVA logo. A subtle detail to carry the energy of the retreats in your daily life.",
+      "candleJazmin": "Jasmine Candle",
+      "candleJazminDesc": "Aromatic jasmine candle made with natural soy wax. The scent that instantly transports you to our retreats. 40-hour clean burn.",
+      "candlePink": "Pale Rose Candle",
+      "candlePinkDesc": "Candle with soft floral scent in OLA VIVA's characteristic pale rose. 100% natural soy wax. A calming ritual for your home."
+    }
+  },
+  "footer": {
+    "eyebrow": "OLA VIVA",
+    "tagline": "Where every wave is a liberation and life flourishes.",
+    "description": "Group spiritual retreats immersed in nature. Every journey, a transformation.",
+    "links": { "title": "Navigation" },
+    "social": {
+      "title": "Follow us",
+      "instagram": "Instagram",
+      "facebook": "Facebook"
+    },
+    "contact": {
+      "title": "Write to us",
+      "body": "Have questions or want to book your spot? We are here for you.",
+      "cta": "Contact us"
+    },
+    "legal": {
+      "privacy": "Privacy policy",
+      "terms": "Terms and conditions",
+      "cookies": "Cookie policy"
+    },
+    "copyright": "© {year} OLA VIVA. All rights reserved."
+  }
+}
