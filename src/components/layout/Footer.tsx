@@ -1,14 +1,20 @@
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
 
-const NAV_LINKS = [
+interface NavLink {
+  href: string;
+  labelKey: string;
+  anchor?: string;
+}
+
+const NAV_LINKS: NavLink[] = [
   { href: "/", labelKey: "home" },
   { href: "/", labelKey: "about", anchor: "sobre-nosotros" },
   { href: "/", labelKey: "destinations", anchor: "destinos" },
   { href: "/gallery", labelKey: "gallery" },
   { href: "/merch", labelKey: "shop" },
   { href: "/contact", labelKey: "contact" },
-] as const;
+];
 
 const LEGAL_LINKS = [
   { href: "/legal/privacy", key: "privacy" },
@@ -58,10 +64,10 @@ export default function Footer() {
               {tFooter("links.title")}
             </h3>
             <ul className="space-y-3">
-              {NAV_LINKS.map(({ href, labelKey }) => (
+              {NAV_LINKS.map(({ href, labelKey, anchor }) => (
                 <li key={labelKey}>
                   <Link
-                    href={href}
+                    href={anchor ? `${href}#${anchor}` : href}
                     className="font-sans text-sm text-sage-300 hover:text-blush-200 transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-sage-400 rounded"
                   >
                     {tNav(labelKey)}

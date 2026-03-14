@@ -1,5 +1,6 @@
 import { Link } from "@/i18n/navigation";
 import Container from "@/components/ui/Container";
+import { useTranslations } from "next-intl";
 
 interface Section {
   heading: string;
@@ -13,6 +14,8 @@ interface LegalPageProps {
 }
 
 export default function LegalPage({ titleKey, sections, lastUpdated }: LegalPageProps) {
+  const t = useTranslations("legal");
+
   return (
     <div className="min-h-screen bg-sand-50 pt-24 pb-section">
       <Container narrow>
@@ -24,13 +27,13 @@ export default function LegalPage({ titleKey, sections, lastUpdated }: LegalPage
           <svg width="14" height="14" viewBox="0 0 14 14" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" className="transition-transform group-hover:-translate-x-0.5" aria-hidden>
             <path d="M9 2L4 7l5 5" />
           </svg>
-          Inicio
+          {t("backToHome")}
         </Link>
 
         {/* Header */}
         <div className="mb-12 pb-10 border-b border-sand-300">
           <p className="font-sans text-xs uppercase tracking-widest text-sage-400 mb-3">
-            OLA VIVA — Legal
+            {t("legalTagline")}
           </p>
           <h1 className="font-serif text-heading text-sage-800 mb-4">{titleKey}</h1>
           <p className="font-sans text-xs text-sage-400">{lastUpdated}</p>
@@ -60,9 +63,9 @@ export default function LegalPage({ titleKey, sections, lastUpdated }: LegalPage
         {/* Footer note */}
         <div className="mt-16 pt-10 border-t border-sand-300">
           <p className="font-sans text-xs text-sage-400 leading-relaxed">
-            Si tienes preguntas sobre estas políticas, puedes contactarnos en{" "}
+            {t("contactNote")}{" "}
             <Link href="/contact" className="text-sage-600 underline underline-offset-2 hover:text-sage-800 transition-colors">
-              nuestra página de contacto
+              {t("contactPage")}
             </Link>
             .
           </p>

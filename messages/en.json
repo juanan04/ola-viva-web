@@ -380,5 +380,167 @@
       "cookies": "Cookie policy"
     },
     "copyright": "© {year} OLA VIVA. All rights reserved."
+  },
+  "legal": {
+    "backToHome": "Home",
+    "legalTagline": "OLA VIVA — Legal",
+    "contactNote": "If you have questions about these policies, you can contact us on ",
+    "contactPage": "our contact page",
+    "lastUpdated": "Last updated: March 2025",
+    "privacy": {
+      "title": "Privacy Policy",
+      "s1": {
+        "h": "1. Data Controller",
+        "b": "OLA VIVA is the entity responsible for the processing of your personal data collected through this website. You can contact us through the form available in the Contact section."
+      },
+      "s2": {
+        "h": "2. Data We Collect",
+        "b": [
+          "Identification data: full name and email address.",
+          "Contact data: phone number (optional) and message sent through the form.",
+          "Browsing data: technical and analytical cookies (see Cookie Policy).",
+          "Commercial data: destination of interest selected in the contact form."
+        ]
+      },
+      "s3": {
+        "h": "3. Purpose of Processing",
+        "b": [
+          "Manage and respond to inquiries received through the contact form.",
+          "Inform you about our retreats, activities, and news, provided you have given your consent.",
+          "Manage the contractual relationship derived from booking a spot in our retreats.",
+          "Comply with applicable legal obligations."
+        ]
+      },
+      "s4": {
+        "h": "4. Legal Basis",
+        "b": "The processing of your data is based on the consent you grant by sending us a form, on the execution of the booking contract when applicable, and on compliance with legal obligations. You can revoke your consent at any time."
+      },
+      "s5": {
+        "h": "5. Data Retention",
+        "b": "Your data will be kept for the time necessary to fulfill the purpose for which it was collected and, once that purpose has ended, for the legally required periods."
+      },
+      "s6": {
+        "h": "6. Recipients",
+        "b": "We do not transfer your data to third parties, except by legal obligation or when strictly necessary to provide the service (for example, accommodation providers or travel insurance linked to the contracted retreat)."
+      },
+      "s7": {
+        "h": "7. Your Rights",
+        "b": [
+          "Access: know what personal data we process about you.",
+          "Rectification: correct inaccurate or incomplete data.",
+          "Erasure: request the deletion of your data when it is no longer necessary.",
+          "Objection: object to the processing of your data for marketing purposes.",
+          "Portability: receive your data in a structured and commonly used format.",
+          "Limitation: request the limitation of processing in certain circumstances."
+        ]
+      },
+      "s8": {
+        "h": "8. Exercise of Rights",
+        "b": "You can exercise your rights by sending us a request through the contact form, clearly indicating the right you wish to exercise and attaching a copy of your identity document."
+      },
+      "s9": {
+        "h": "9. Security",
+        "b": "OLA VIVA applies appropriate technical and organizational measures to protect your personal data against loss, unauthorized access, disclosure, alteration, or destruction."
+      },
+      "s10": {
+        "h": "10. Modifications",
+        "b": "We reserve the right to update this policy to adapt it to legislative or operational changes. We will notify you of any relevant changes through this same page."
+      }
+    },
+    "terms": {
+      "title": "Terms and Conditions",
+      "s1": {
+        "h": "1. Object",
+        "b": "These General Conditions regulate the relationship between OLA VIVA and users who contract or consult its services through this website. By accessing the site or booking a spot in any of our retreats, you accept these conditions in full."
+      },
+      "s2": {
+        "h": "2. Service Description",
+        "b": "OLA VIVA organizes group spiritual retreats in different national and international destinations. The service includes accommodation, guided activities, internal transport, and travel insurance, as detailed in the description of each retreat. Round-trip flights, unspecified meals, and personal expenses are excluded from the price unless otherwise indicated."
+      },
+      "s3": {
+        "h": "3. Booking and Payment",
+        "b": [
+          "The booking is formalized by paying the deposit indicated for each retreat.",
+          "The remaining amount must be paid prior to the start date of the retreat, according to the instructions provided by OLA VIVA.",
+          "Until the deposit is received and confirmed, the spot will not be considered booked.",
+          "Published prices are in euros and include applicable VAT."
+        ]
+      },
+      "s4": {
+        "h": "4. Cancellations by the Participant",
+        "b": [
+          "More than 30 days in advance: 100% refund of the amount paid.",
+          "Between 15 and 30 days in advance: 50% refund of the amount paid.",
+          "Less than 15 days in advance: no refund will be made.",
+          "In all cases, OLA VIVA will study the possibility of applying the amount to a future retreat."
+        ]
+      },
+      "s5": {
+        "h": "5. Cancellations by OLA VIVA",
+        "b": "In case of cancellation of the retreat due to OLA VIVA, a full refund of all amounts paid will be made. OLA VIVA is not responsible for expenses derived from flights or other services contracted independently by the participant."
+      },
+      "s6": {
+        "h": "6. Program Modifications",
+        "b": "OLA VIVA reserves the right to modify the itinerary, activities, or accommodation due to force majeure, adverse weather, or any other circumstance beyond its control, always striving to maintain the essence and quality of the retreat."
+      },
+      "s7": {
+        "h": "7. Participant Responsibility",
+        "b": [
+          "The participant declares to be in adequate physical and mental condition to perform the programmed activities.",
+          "The participant agrees to respect the rules of coexistence of the group and the instructions of the OLA VIVA monitors at all times.",
+          "OLA VIVA is not responsible for damages or injuries derived from the non-observance of these rules."
+        ]
+      },
+      "s8": {
+        "h": "8. Intellectual Property",
+        "b": "All contents of this website (texts, images, logos, design) are the property of OLA VIVA or its licensors and are protected by intellectual property laws. Reproduction without express authorization is prohibited."
+      },
+      "s9": {
+        "h": "9. Applicable Legislation",
+        "b": "These conditions are governed by Spanish legislation. For any controversy, the parties submit to the courts and tribunals of the consumer's domicile."
+      },
+      "s10": {
+        "h": "10. Contact",
+        "b": "For any query related to these conditions, you can contact us through the form available on our Contact page."
+      }
+    },
+    "cookies": {
+      "title": "Cookie Policy",
+      "s1": {
+        "h": "What are cookies?",
+        "b": "Cookies are small text files that websites save on your device when you visit them. They allow the site to remember your preferences and improve your browsing experience."
+      },
+      "s2": {
+        "h": "Cookies We Use",
+        "b": [
+          "Technical cookies (necessary): essential for the operation of the site. They include the language preference cookie (NEXT_LOCALE). They do not require consent.",
+          "Analytical cookies: allow us to analyze the use of the site anonymously and in aggregate to improve our content and services. They are only activated if you give your consent.",
+          "Third-party cookies: if we use third-party services such as Google Analytics or social networks, they may install their own cookies. Consult their individual policies for more information."
+        ]
+      },
+      "s3": {
+        "h": "Language Cookie (NEXT_LOCALE)",
+        "b": "This technical cookie stores your language preference (Spanish or English) so you don't have to select it on every visit. It expires when you close the browser or when you manually change the language."
+      },
+      "s4": {
+        "h": "How to Manage Cookies",
+        "b": [
+          "You can configure your browser to reject all cookies or to notify you when one is about to be installed.",
+          "Keep in mind that disabling technical cookies may affect the correct functioning of the site.",
+          "Instructions for major browsers: Chrome (Settings > Privacy and security > Cookies), Firefox (Preferences > Privacy), Safari (Preferences > Privacy), Edge (Settings > Privacy)."
+        ]
+      },
+      "s5": {
+        "h": "Cookie Duration",
+        "b": [
+          "Session cookies: deleted automatically when the browser is closed.",
+          "Persistent cookies: remain on your device for the period indicated in each cookie, or until you delete them manually."
+        ]
+      },
+      "s6": {
+        "h": "Updates to This Policy",
+        "b": "We may update this policy to reflect changes in the cookies we use or in the applicable regulations. We recommend reviewing it periodically. The date of the last update always appears at the beginning of the document."
+      }
+    }
   }
 }

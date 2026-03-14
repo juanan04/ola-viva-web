@@ -27,7 +27,7 @@ export default async function HomePage() {
       </section>
 
       {/* 3. Destinos — scroll-driven horizontal card reveal */}
-      <section id="destinations">
+      <section id="destinos">
         <DestinationsSection destinations={DESTINATIONS} locale={locale} />
       </section>
     </>
