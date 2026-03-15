@@ -359,6 +359,30 @@
       "candlePinkDesc": "Candle with soft floral scent in OLA VIVA's characteristic pale rose. 100% natural soy wax. A calming ritual for your home."
     }
   },
+  "organizer": {
+    "metaTitle": "About Me | OLA VIVA",
+    "metaDescription": "Meet Esperanza Aragón Andrades, the soul behind OLA VIVA. A story of creativity, well-being and connection with nature.",
+    "eyebrow": "The person behind the wave",
+    "name": "Hi, I'm Esperanza",
+    "fullName": "Esperanza Aragón Andrades",
+    "age": "20 years old",
+    "tagline": "The soul behind OLA VIVA",
+    "intro": "I'm 20 years old and I'm the soul behind OLA VIVA. I consider myself a creative, kind and open-minded person, always ready to meet new people and explore the world.",
+    "quote": "Although I love connecting with others, I firmly believe that the best company is oneself.",
+    "purpose": "My purpose is to guide you on this journey towards your integral well-being, where the natural environment helps us disconnect to flourish.",
+    "valuesTitle": "What moves me",
+    "values": {
+      "creativity": { "title": "Creativity", "body": "Finding beauty in every detail of the path." },
+      "openness": { "title": "Open mind", "body": "Every person brings a story that deserves to be heard." },
+      "nature": { "title": "Nature", "body": "The natural environment is where everything truly flourishes." }
+    },
+    "ctaTitle": "Shall we start the journey?",
+    "ctaBody": "If what you read here resonates with you, I would love to meet you at one of our retreats.",
+    "ctaButton": "View retreats",
+    "ctaContact": "Write to me",
+    "imgAlt": "Esperanza Aragón Andrades, founder of OLA VIVA",
+    "backToHome": "Back to home"
+  },
   "footer": {
     "eyebrow": "OLA VIVA",
     "tagline": "Where every wave is a liberation and life flourishes.",
@@ -374,6 +398,7 @@
       "body": "Have questions or want to book your spot? We are here for you.",
       "cta": "Contact us"
     },
+    "organizer": "About the organizer",
     "legal": {
       "privacy": "Privacy policy",
       "terms": "Terms and conditions",

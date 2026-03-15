@@ -359,6 +359,30 @@
       "candlePinkDesc": "Vela con aroma floral suave en el rosa pálido característico de OLA VIVA. Cera de soja 100% natural. Un ritual de calma para tu hogar."
     }
   },
+  "organizer": {
+    "metaTitle": "Sobre Mí | OLA VIVA",
+    "metaDescription": "Conoce a Esperanza Aragón Andrades, el alma detrás de OLA VIVA. Una historia de creatividad, bienestar y conexión con la naturaleza.",
+    "eyebrow": "La persona detrás de la ola",
+    "name": "Hola, soy Esperanza",
+    "fullName": "Esperanza Aragón Andrades",
+    "age": "20 años",
+    "tagline": "El alma detrás de OLA VIVA",
+    "intro": "Tengo 20 años y soy el alma detrás de OLA VIVA. Me considero una persona creativa, amable y de mente abierta, siempre lista para conocer gente nueva y explorar el mundo.",
+    "quote": "Aunque me encanta conectar con los demás, creo firmemente que la mejor compañía es uno mismo.",
+    "purpose": "Mi propósito es guiarte en este viaje hacia tu bienestar integral, donde el entorno natural nos ayude a desconectar para florecer.",
+    "valuesTitle": "Lo que me mueve",
+    "values": {
+      "creativity": { "title": "Creatividad", "body": "Encontrar belleza en cada detalle del camino." },
+      "openness": { "title": "Mente abierta", "body": "Cada persona trae una historia que merece ser escuchada." },
+      "nature": { "title": "Naturaleza", "body": "El entorno natural es donde todo florece de verdad." }
+    },
+    "ctaTitle": "¿Empezamos el viaje?",
+    "ctaBody": "Si resonas con lo que lees aquí, me encantaría conocerte en uno de nuestros retiros.",
+    "ctaButton": "Ver retiros",
+    "ctaContact": "Escríbeme",
+    "imgAlt": "Esperanza Aragón Andrades, fundadora de OLA VIVA",
+    "backToHome": "Volver al inicio"
+  },
   "footer": {
     "eyebrow": "OLA VIVA",
     "tagline": "Donde cada ola es una liberación y la vida florece.",
@@ -374,6 +398,7 @@
       "body": "¿Tienes dudas o quieres reservar tu plaza? Estamos aquí para ti.",
       "cta": "Contactar"
     },
+    "organizer": "Sobre la organizadora",
     "legal": {
       "privacy": "Política de privacidad",
       "terms": "Términos y condiciones",

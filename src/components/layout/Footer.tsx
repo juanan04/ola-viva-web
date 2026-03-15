@@ -22,6 +22,8 @@ const LEGAL_LINKS = [
   { href: "/legal/cookies", key: "cookies" },
 ] as const;
 
+const ORGANIZER_LINK = { href: "/organizer", key: "organizer" };
+
 export default function Footer() {
   const tNav = useTranslations("nav");
   const tFooter = useTranslations("footer");
@@ -142,6 +144,12 @@ export default function Footer() {
             {tFooter("copyright", { year })}
           </p>
           <div className="flex flex-wrap items-center justify-center gap-4 sm:gap-6">
+            <Link
+              href={ORGANIZER_LINK.href}
+              className="font-sans text-xs text-blush-400 hover:text-blush-200 transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-sage-400 rounded"
+            >
+              {tFooter("organizer")}
+            </Link>
             {LEGAL_LINKS.map(({ href, key }) => (
               <Link
                 key={key}
