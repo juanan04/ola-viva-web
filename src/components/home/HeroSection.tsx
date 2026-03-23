@@ -117,7 +117,7 @@ export default function HeroSection() {
         {/* CTAs — bottom row */}
         <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 items-start sm:items-center">
           <Link
-            href="/#destinations"
+            href="/#destinos"
             className={cn(
               "inline-flex items-center gap-2.5",
               "px-7 py-3.5 rounded-full font-sans text-sm font-medium",
