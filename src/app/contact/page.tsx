@@ -28,6 +28,26 @@ export default function ContactPage() {
           />
         </div>
 
+        {/* Survey CTA */}
+        <div className="mb-10 bg-linear-to-br from-blush-50 to-sage-50 border border-sage-100 rounded-4xl p-8 md:p-10 flex flex-col md:flex-row items-center gap-6 shadow-sm">
+          <div className="flex-1 text-center md:text-left">
+            <h2 className="font-serif text-2xl md:text-3xl text-sage-800 mb-3">
+              {t("survey.title")}
+            </h2>
+            <p className="font-sans text-sage-600 leading-relaxed max-w-lg">
+              {t("survey.body")}
+            </p>
+          </div>
+          <a
+            href="https://forms.gle/MfcZ3p1XW6ByE45VA"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="shrink-0 px-8 py-3.5 rounded-full font-sans text-sm font-medium bg-sage-400 text-white hover:bg-sage-500 active:bg-sage-600 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sage-400 focus-visible:ring-offset-2"
+          >
+            {t("survey.cta")}
+          </a>
+        </div>
+
         <div className="bg-white p-8 md:p-12 rounded-4xl shadow-xl shadow-sage-200/20 border border-sage-100">
           <ContactForm />
         </div>

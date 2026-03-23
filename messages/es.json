@@ -400,6 +400,11 @@
   "contact": {
     "title": "Empieza tu viaje",
     "subtitle": "Cuéntanos tu sueño y lo hacemos realidad",
+    "survey": {
+      "title": "Queremos saber sobre ti",
+      "body": "Antes de empezar, ayúdanos a conocerte mejor. Responde unas breves preguntas para que podamos ofrecerte la experiencia más adecuada para ti.",
+      "cta": "Completar el formulario"
+    },
     "form": {
       "name": "Nombre completo",
       "email": "Correo electrónico",

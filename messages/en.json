@@ -277,6 +277,11 @@
   "contact": {
     "title": "Start your journey",
     "subtitle": "Tell us your dream and we'll make it happen",
+    "survey": {
+      "title": "We want to know about you",
+      "body": "Before we begin, help us get to know you better. Answer a few quick questions so we can offer you the experience best suited for you.",
+      "cta": "Fill out the form"
+    },
     "form": {
       "name": "Full name",
       "email": "Email address",
